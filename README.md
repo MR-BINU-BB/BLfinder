@@ -25,7 +25,7 @@ spot potential hijacking opportunities before attackers do. 🕵️‍♂️
 
 ## 📸 Screenshot
 
-![BLFinder in Action](assets/blfinder_screenshot.png)
+![BLFinder in Action](https://github.com/MR-BINU-BB/BLfinder/blob/main/BLfinder_image.png)
 
 ---
 
@@ -33,8 +33,18 @@ spot potential hijacking opportunities before attackers do. 🕵️‍♂️
 
 ```bash
 # Clone the repo
-git clone https://github.com/<yourusername>/BLFinder.git
+git clone https://github.com/MR-BINU-BB/BLFinder.git
 cd BLFinder
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run
+python BLFinder.py
+
+---
+
+💥 Boom! Tool will start and greet you with the interactive menu.
+Choose your option, provide the target, and let BLFinder do the magic. ⚡
+
+---
