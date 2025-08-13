@@ -104,10 +104,11 @@ def show_creator_info():
 ╚════════════════════════════════════════════════════════╝
 {YELLOW}You want to know about me? See my social media profiles!{RESET}
 {GREEN}
-Instagram : https://instagram.com/yourprofile
-Twitter   : https://twitter.com/yourprofile
-GitHub    : https://github.com/yourprofile
-Facebook  : https://facebook.com/yourprofile
+Instagram : https://www.instagram.com/__mr.binu__
+Twitter   : https://x.com/MR_BINU_BB
+GitHub    : https://github.com/MR-BINU-BB
+Linkedin  : https://www.linkedin.com/in/mr-binu-416b16374
+YouTube   : Soon
 {RESET}
 """
     print(creator_banner)
@@ -186,5 +187,6 @@ if __name__ == "__main__":
             for link in links:
                 f.write(f"  {link}\n")
             f.write("\n")
+
 
     print(f"\n{GREEN}✅ Scan complete! Results saved in {result_path}{RESET}")
